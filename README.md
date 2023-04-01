@@ -2,9 +2,9 @@
 Please fork this repository and e-mail with the URL of your work. You don't have to create Pull Request.
 
 ## Instructions
-Need to create a small application - a library of books.
-Using any Architecture(using Clean Architecture is preferred), State Management
-Add unit tests is prefered
+- Need to create a small application - a library of books.
+- Using any Architecture(using Clean Architecture is preferred), State Management
+- Add unit tests is prefered
 
 ### Screens
  - List of books
